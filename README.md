@@ -1,7 +1,27 @@
 <h2> Hi, I'm Finger!</h2>
-<a href="https://github.com/spianmo">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=spianmo&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs" alt="Finger's github stats" />
-</a>
+<img align='right' src="[https://github-readme-stats.vercel.app/api?username=moond4rk&show_icons=true&theme=radical](https://github-readme-stats.anuraghazra1.vercel.app/api?username=spianmo&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs)" width="300">
+
+
+```go
+package main
+
+type Me struct {
+	Name   string
+	Job    string
+	Code   string
+	Skills string
+}
+
+func main() {
+	me := &Me{
+		Name:   "Finger",
+		Job:    "Client-side Engineer",
+		Code:   "Java and C++ and Others",
+		Skills: "Android Security NLP ^o^",
+	}
+	_ = me
+}
+```
 
 ### My Skill/Technology stack ✨
 ![](https://raw.githubusercontent.com/spianmo/spianmo/master/Silk.svg)
