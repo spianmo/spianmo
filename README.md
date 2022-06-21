@@ -1,5 +1,5 @@
 <h2> Hi, I'm Finger!</h2>
-<img align='right' height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=spianmo&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs">
+<img align='right' height="150em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=spianmo&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs" width="400px">
 
 
 ```go
