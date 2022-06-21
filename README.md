@@ -6,13 +6,6 @@
 ### My Skill/Technology stack ✨
 ![](https://raw.githubusercontent.com/spianmo/spianmo/master/Silk.svg)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-### My Skill/Technology stack ✨
-![](https://raw.githubusercontent.com/spianmo/spianmo/master/Silk.svg)
-
 
 <h3>📊 This Week I Spent My Time On:</h3>
 <img align='right' src="https://spotify-github-profile.vercel.app/api/view?uid=zbgk3g7ojwjwrwrleo6u8mhub&cover_image=true&theme=novatorem" width="300">
