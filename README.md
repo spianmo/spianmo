@@ -1,6 +1,6 @@
 <h2> Hi, I'm Finger!</h2>
 
-<img align="right" src="https://raw.githubusercontent.com/spianmo/github-stats/master/generated/languages.svg#gh-light-mode-only">
+<img align="right" src="https://raw.githubusercontent.com/spianmo/github-stats/master/generated/overview.svg#gh-light-mode-only">
 
 <!-- <img align="right" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spianmo&layout=compact&langs_count=8&theme=algolia"/>	 -->
 	
@@ -27,7 +27,7 @@ func main() {
 
 
 <h3>📊 This Week I Spent My Time On:</h3>
-<img align='right' src="https://spotify-github-profile.vercel.app/api/view?uid=zbgk3g7ojwjwrwrleo6u8mhub&cover_image=true&theme=novatorem" width="300">
+<img align='right' src="https://raw.githubusercontent.com/spianmo/github-stats/master/generated/languages.svg#gh-light-mode-only">
 
 <!--START_SECTION:waka-->
 
