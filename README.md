@@ -1,6 +1,6 @@
 <h2> Hi, I'm Finger!</h2>
 
-<img align="right" height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=spianmo&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs" width="400px">
+<img align="right" src="https://raw.githubusercontent.com/spianmo/github-stats/master/generated/languages.svg#gh-light-mode-only">
 
 <!-- <img align="right" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spianmo&layout=compact&langs_count=8&theme=algolia"/>	 -->
 	
