@@ -30,4 +30,9 @@ func main() {
 <img align='right' src="https://spotify-github-profile.vercel.app/api/view?uid=zbgk3g7ojwjwrwrleo6u8mhub&cover_image=true&theme=novatorem" width="300">
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
