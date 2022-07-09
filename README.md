@@ -32,12 +32,12 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js                   9 hrs 37 mins   ██████████▓░░░░░░░░░░░░░░   42.92 %
-C++                      4 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-JavaScript               2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-TypeScript               1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-CMake                    1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-ObjectiveC               1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Vue.js                   4 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.38 %
+C++                      4 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
+JavaScript               1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+CMake                    1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+TypeScript               1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+ObjectiveC               1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
 ```
 
 <!--END_SECTION:waka-->
