@@ -32,8 +32,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 mins          █████████████████████████   100.00 %
-C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
