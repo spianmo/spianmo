@@ -32,12 +32,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Python                   16 hrs 16 mins  █████████████████▓░░░░░░░   70.76 %
-Vue.js                   2 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-JavaScript               1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Text                     49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Markdown                 37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-JSON                     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
