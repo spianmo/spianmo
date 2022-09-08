@@ -32,12 +32,12 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Python                   24 hrs 18 mins  ████████████████████░░░░░   80.35 %
-Qt Style Sheets file     3 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Vue.js                   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Qt UI file               46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-JSON                     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-HTML                     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Python                   29 hrs 43 mins  ████████████████████▓░░░░   82.32 %
+Qt Style Sheets file     3 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+Qt UI file               1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+JSON                     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+AlibabaCloudROS (JSON)   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+HTML                     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
