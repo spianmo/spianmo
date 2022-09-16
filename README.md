@@ -32,12 +32,12 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Python                 31 hrs 53 mins  ██████████████████████▓░░   91.27 %
-Qt Style Sheets file   1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Qt UI file             37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Batchfile              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Batch                  8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Markdown               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python                 29 hrs 14 mins  ██████████████████████▓░░   90.58 %
+Qt Style Sheets file   1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Qt UI file             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Batchfile              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Batch                  8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Markdown               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
