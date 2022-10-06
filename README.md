@@ -32,12 +32,12 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Python                   16 hrs 12 mins  █████████████████████▒░░░   85.35 %
-JavaScript               59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Batchfile                32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Qt Style Sheets file     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Vue.js                   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-SourceMap                11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Python                   10 hrs 2 mins   ████████████████████░░░░░   80.58 %
+JavaScript               59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Batchfile                32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Vue.js                   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+SourceMap                11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+textmate                 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
