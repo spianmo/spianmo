@@ -32,12 +32,12 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Python                   11 hrs 12 mins  ███████████████▓░░░░░░░░░   62.50 %
-Text                     2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-JavaScript               1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-Vue.js                   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Makefile                 28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-requirements.txt         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Python                   9 hrs 52 mins   █████████████████▒░░░░░░░   69.55 %
+Text                     2 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
+Makefile                 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+JavaScript               22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+requirements.txt         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Batch                    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
