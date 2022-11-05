@@ -32,12 +32,12 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js                   12 hrs 50 mins  █████████████▒░░░░░░░░░░░   53.31 %
-JavaScript               4 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   19.61 %
-TypeScript               3 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-JSON                     52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-AlibabaCloudROS (JSON)   48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-WXML                     39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Vue.js                   10 hrs 49 mins  ██████████████▒░░░░░░░░░░   57.57 %
+TypeScript               3 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
+JavaScript               2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+JSON                     51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+AlibabaCloudROS (JSON)   48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Python                   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
