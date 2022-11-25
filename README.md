@@ -32,7 +32,12 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+textmate     28 mins         █████████░░░░░░░░░░░░░░░░   35.67 %
+C++          16 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+Makefile     14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+TypeScript   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+SVG          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+CMake        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
 ```
 
 <!--END_SECTION:waka-->
