@@ -32,12 +32,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-JSON                       45 mins         ██████████░░░░░░░░░░░░░░░   39.97 %
-Groovy                     18 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-Java                       13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
-YAML                       12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-XML                        8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-SQL                        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
