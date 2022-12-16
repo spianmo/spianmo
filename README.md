@@ -32,12 +32,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       25 mins         ███████████████▒░░░░░░░░░   61.09 %
-TypeScript   10 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.74 %
-JSON         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-tsconfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
