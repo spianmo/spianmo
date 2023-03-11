@@ -32,12 +32,12 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Java                   22 hrs 59 mins  ███████████████▓░░░░░░░░░   63.33 %
-Kotlin                 5 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-XML                    2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-BashPro Shell Script   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-CMake                  42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Properties             42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Java                   23 hrs 39 mins  █████████████████░░░░░░░░   67.59 %
+Kotlin                 5 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
+XML                    1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+CMake                  42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Properties             42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+BashPro Shell Script   38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
