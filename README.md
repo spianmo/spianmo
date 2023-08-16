@@ -32,11 +32,11 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Java                   13 hrs 16 mins  ███████████▒░░░░░░░░░░░░░   45.41 %
-Kotlin                 8 hrs 51 mins   ███████▓░░░░░░░░░░░░░░░░░   30.27 %
-XML                    2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-TypeScript             1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-Properties             1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Java                   11 hrs 34 mins  ███████████░░░░░░░░░░░░░░   43.94 %
+Kotlin                 7 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   28.94 %
+XML                    2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+TypeScript             1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Properties             1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
