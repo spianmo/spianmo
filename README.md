@@ -32,7 +32,10 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java         13 mins         █████████████████████████   100.00 %
+Gradle       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
