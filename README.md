@@ -18,8 +18,8 @@ func main() {
 	me := &Me{
 		Name:   "Finger",
 		Job:    "Client-side Engineer",
-		Code:   "Java and C++ and Others",
-		Skills: "Android Security NLP ^o^",
+		Code:   "Java, Kotlin, C#, Rust and C++ and Others",
+		Skills: "Android, Security, Cross-platform client, NLP, CV, ASR ^o^",
 	}
 	_ = me
 }
