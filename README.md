@@ -32,11 +32,11 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Java                   7 hrs 51 mins   ███████████░░░░░░░░░░░░░░   43.81 %
-Kotlin                 4 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   23.52 %
-Python                 1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Gradle                 1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Shrinker Config File   1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Java                   5 hrs 39 mins   ██████████░░░░░░░░░░░░░░░   39.38 %
+Kotlin                 4 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   28.41 %
+Gradle                 1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Python                 52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Shrinker Config File   43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 ```
 
 <!--END_SECTION:waka-->
