@@ -32,7 +32,11 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin                 29 hrs 39 mins  ████████████████████▒░░░░   80.69 %
+XML                    4 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Java                   58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+TOML                   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Properties             12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
