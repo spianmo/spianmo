@@ -32,9 +32,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   15 mins         ████████████████▒░░░░░░░░   65.65 %
-Java     5 mins          ██████░░░░░░░░░░░░░░░░░░░   23.99 %
-Text     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
