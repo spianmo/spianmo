@@ -32,11 +32,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Java                   1 hr 27 mins    ███████████████▒░░░░░░░░░   61.18 %
-Kotlin                 30 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
-TOML                   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-XML                    7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-CMake                  2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
