@@ -32,7 +32,8 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          █████████████████████████   100.00 %
+SQL      0 secs          ██████████████░░░░░░░░░░░   56.19 %
+Python   0 secs          ███████████░░░░░░░░░░░░░░   43.81 %
 ```
 
 <!--END_SECTION:waka-->
