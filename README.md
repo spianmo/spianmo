@@ -32,8 +32,11 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-SQL      0 secs          ██████████████░░░░░░░░░░░   56.19 %
-Python   0 secs          ███████████░░░░░░░░░░░░░░   43.81 %
+BashSupport Pro Shell Script   25 mins         ██████████████████░░░░░░░   72.16 %
+Python                         8 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
+textmate                       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+SQL                            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Markdown                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
