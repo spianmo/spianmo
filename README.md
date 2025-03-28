@@ -32,11 +32,11 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                         3 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   39.64 %
-CMake                          2 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
-CMakeLists.txt                 1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-C++                            30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-Properties                     26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Kotlin                         19 hrs 26 mins  █████████████▒░░░░░░░░░░░   53.46 %
+C++                            5 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
+CMake                          4 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+CMakeLists.txt                 2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Properties                     33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
