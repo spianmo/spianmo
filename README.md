@@ -32,11 +32,11 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                           1 hr 21 mins    ██████████████▒░░░░░░░░░░   57.31 %
-Kotlin                         32 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
-Java                           10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-Java Properties                8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Python                         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Bash                           1 hr 21 mins    ████████████████████▓░░░░   83.15 %
+Python                         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Kotlin                         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+BashSupport Pro Shell Script   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Text                           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
