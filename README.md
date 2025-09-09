@@ -32,10 +32,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 mins          █████████████████▓░░░░░░░   71.17 %
-JSON         2 mins          ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
